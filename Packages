@@ -76,3 +76,19 @@ SHA256: 49ee8c43b489ab7d13f1a8f7b671de0682c98992a549f12a07fdbf5e744bee5c
 Section: Tweaks
 Depiction: https://i.top4top.io/p_1931gddlu1.png
 Name: Biscuit
+
+Package: me.conorthedev.pastel
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: MARV
+Depends: mobilesubstrate, preferenceloader, me.conorthedev.libconorthedev, ws.hbang.common
+Conflicts: لا يوجد تعارضات
+Filename: me.conorthedev.pastel_1.2_iphoneos-arm.deb
+Icon: 
+Size: 23106 ك.ب
+MD5sum: 7de1e6f161fd4096d06d498f3a875e93
+SHA1: c64f8b607bda4447fdd1876006059028d89d2e39
+SHA256: 348a63fce91ee45101d68820cd054171d7c734b46919617b384a7679cdfc500a
+Section: Tweaks
+Depiction: https://archive.org/download/pastel_202104/pastel.txt
+Name: Pastel
