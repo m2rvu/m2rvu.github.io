@@ -73,7 +73,7 @@ Size:
 MD5sum: 379cfbe1e1b1de45beca3fb575e99ede
 SHA1: 84050abb0f546c844b9616cf85631e36b9b0145d
 SHA256: 49ee8c43b489ab7d13f1a8f7b671de0682c98992a549f12a07fdbf5e744bee5c
-Section: Tweaks
+Section: Theme
 Depiction: https://i.top4top.io/p_1931gddlu1.png
 Name: Biscuit
 
@@ -92,3 +92,114 @@ SHA256: 348a63fce91ee45101d68820cd054171d7c734b46919617b384a7679cdfc500a
 Section: Tweaks
 Depiction: https://archive.org/download/pastel_202104/pastel.txt
 Name: Pastel
+
+Package: com.deadtweak.com 
+Version: 1.7.1
+Architecture: iphoneos-arm
+Maintainer: MARV
+Depends: يفضل اصدار 10.78.6  للتطبيق 
+Conflicts: لايوجد تعارضات
+Filename: com.deadtweak.com_1.7.1_iphoneos-arm
+Size: 
+MD5sum: 3fe961c2f275e5fe785f99896a08a687
+SHA1: efecf6c6cb77eeff8bfaf1ab4eb5f5faa56aa22d
+SHA256: afc364a84c491776cc4e466b0ef14442dacbb1e879cc13f1689acdba49c9afdc
+Section: Tweaks
+Depiction: https://archive.org/download/deadtweak_20210415_2033/deadtweak.txt
+Name: DeadTweak 
+
+Package: com.lema.unicorn
+Version:5.1
+Architecture: iphoneos-arm
+Maintainer: MARV
+Depends: تعديل تيك توك
+Conflicts:لا تعارضات
+Filename: debs2.0/unicorn_5.1.deb
+Icon: file:///Library/Application%20Support/Unicorn/unicorn-icon.png
+Size: 659524  ك.ب
+MD5sum: bfb48c010e8b2cf1c3ed63df9c3fba77
+SHA1: e5d54ba71146f2d8b104b042662a48dc38b9bf0b
+SHA256: 6e5bfb477342ef12eb6ffefa48dd1444b74782889bb51651e5c663be4ad2d202
+Section: Tweaks
+Depiction: https://archive.org/download/unicorn_202104/Unicorn.txt
+Name: Unicorn
+
+Package: net.limneos.bioprotectx 
+Version:4.5-14
+Architecture: iphoneos-arm
+Maintainer: MARV
+Depends: قفل التطبيقات برمز سري وبصمة وجه و اصبع
+Conflicts: لا توجد تعارضات
+Filename: net.limneos.bioprotectxs_4.5-14_iphoneos-arm.deb
+Icon: file:///Library/PreferenceBundles/BioProtectPrefs.bundle/BioProtect.png
+Size: 2131 ك.ب
+MD5sum: e03e1ac9a8bc44f5766227db399312ed
+SHA1: 24e7bac6066e3341fb65667e48eb9a687f51411c
+SHA256: 25ec755cca7cc23b033b125cba916eb5162496026b969cf3142e16363764d776
+Section: Tweaks
+Depiction: https://archive.org/download/bio-p/BioP.txt
+Name: BioProtect XS (iOS 12/13/14) 
+
+Package: net.myclassic.cydown
+Version: 7.1.1
+Architecture: iphoneos-arm
+Maintainer: MARV
+Depends: تكريك الادوات المدفوعه
+Conflicts: لا يوجد تعارضات
+Filename: net.myclassic.cydown_7.1.1_iphoneos-arm.deb
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Size: 4358002
+MD5sum: da485c952437ea2c6b0bdbc8212bf775
+SHA1: 9ed74555817bed3a0959d88520bcc345bd8a1d4b
+SHA256: f841df13f2b89eab695904dc3c679e6ec4be6380ea20c6bbb8464be9f20921df
+Section: Tweaks
+Depiction: https://archive.org/download/cy-down/CyDown.txt
+Name: CyDown
+
+Package: com.stevsarm.biscuit
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MARV
+Depends: 
+Conflicts: 
+Filename: com.stevsarm.biscuit_1.0_iphoneos-arm.deb
+Icon: 
+Size: 
+MD5sum: 379cfbe1e1b1de45beca3fb575e99ede
+SHA1: 84050abb0f546c844b9616cf85631e36b9b0145d
+SHA256: 49ee8c43b489ab7d13f1a8f7b671de0682c98992a549f12a07fdbf5e744bee5c
+Section: Theme Biscuit
+Depiction: https://i.top4top.io/p_1931gddlu1.png
+Name: Biscuit
+
+Package: me.conorthedev.pastel
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: MARV
+Depends: mobilesubstrate, preferenceloader, me.conorthedev.libconorthedev, ws.hbang.common
+Conflicts: لا يوجد تعارضات
+Filename: me.conorthedev.pastel_1.2_iphoneos-arm.deb
+Icon: 
+Size: 23106 ك.ب
+MD5sum: 7de1e6f161fd4096d06d498f3a875e93
+SHA1: c64f8b607bda4447fdd1876006059028d89d2e39
+SHA256: 348a63fce91ee45101d68820cd054171d7c734b46919617b384a7679cdfc500a
+Section: Tweaks
+Depiction: https://archive.org/download/pastel_202104/pastel.txt
+Name: Pastel
+
+Package: com.check0ver.Liaca
+Version:  4.1.4
+Architecture: iphoneos-arm
+Maintainer: MARV
+Depends: 
+Conflicts: 
+Filename:  com.check0ver.liaca_4.1.4_iphoneos-arm.deb
+Icon: 
+Size:  101 م.غ
+MD5sum:  3635bac672911df4e6ffb549798c865f
+SHA1:  362dfdd2d2ffafc32183393d4d53b13344ffd8e2
+SHA256: 9e0783b7557f697c859195a68def1e3b57013003a10266badf770b73f7b45741
+Section: Theme 
+Depiction: Theme liaca
+Name: Liaca
